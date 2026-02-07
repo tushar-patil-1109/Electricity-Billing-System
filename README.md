@@ -1,4 +1,4 @@
-##  ⚡Electricity Billing System (Java)
+##  ⚡Electricity Billing System (GridBill)
 
 - A Java-based Electricity Billing System developed using Core Java, Swing (GUI), and MySQL, designed to automate electricity bill management for customers and administrators.
 - The Electricity Billing System is a desktop application that helps electricity departments manage customer details, meter information, bill calculation, and payment records efficiently.
